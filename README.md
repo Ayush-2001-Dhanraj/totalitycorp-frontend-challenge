@@ -1,4 +1,4 @@
-# Totality Corp FE Challenge Website -
+# Totality Corp FE Challenge Website
 
 Welcome to the Totality Corp FE Challenge Website project! This README will guide you through the project, its deployment, and the technologies used.
 
@@ -16,6 +16,8 @@ I drew inspiration from this Figma design for our Flower Delivery Website:
 I've employed a variety of cutting-edge technologies to bring this project to life:
 
 - **React.js** ⚛️: Our primary frontend library for building the user interface.
+
+- **TypeScript** 🧮: I have leveraged TypeScript for type safety and enhanced code quality.
 
 - **Redux Toolkit** 🔄: For efficient state management and maintaining a predictable state container.
 
