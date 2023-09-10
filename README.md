@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# Totality Corp FE Challenge Website -
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Totality Corp FE Challenge Website project! This README will guide you through the project, its deployment, and the technologies used.
 
-## Available Scripts
+## Deployment
 
-In the project directory, you can run:
+You can access the deployed Flower Delivery Website at the following link: [Insert Deployment Link](insert_deployment_link_here)
 
-### `yarn start`
+## Figma Design Reference
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I drew inspiration from this Figma design for our Flower Delivery Website:
+[Figma Design](https://www.figma.com/file/K2XrTwG0JIopmHQUFiUgOl/eCommerce---Flower-Delivery-website-%7C-UI-%26-UX-%7C-Ui-kit-%7C-Template-(Community)?node-id=171%3A526&mode=dev)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tech Stack
 
-### `yarn test`
+I've employed a variety of cutting-edge technologies to bring this project to life:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React.js**: Our primary frontend library for building the user interface.
 
-### `yarn build`
+- **Redux Toolkit**: For efficient state management and maintaining a predictable state container.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Lottie Animations**: Used for creating engaging animations for success, loading, and empty states.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Material-UI (MUI)**: This versatile UI framework was chosen for its ease of setup and stylish icons.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React-hot-Toast**: To display non-intrusive toasts for user notifications.
 
-### `yarn eject`
+## Approach
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Our approach to building this Flower Delivery Website was methodical and structured:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Design Exploration**: I scoured the web for design inspirations and found the Figma design mentioned above, which served as our foundational reference.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+2. **Design Components**: I opted to use Material-UI due to its simplicity and appealing icons. Additionally, I incorporated Lottie animations to enhance user experience.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+3. **Repo Structure**: I visualized the project's repository and application structure, including components, pages, and Redux setup.
 
-## Learn More
+4. **Development Initiation**: I commenced work on the project, laying the foundation and gradually adding features.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. **Component Expansion**: As required, we introduced new components to enrich the website's functionality and aesthetics.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. **Refactoring**: I paid close attention to code quality and continuously refactored to ensure maintainability and scalability.
+
+7. **Deployment**: Finally, we deployed the website to make it accessible to users.
+
+## Get Started
+
+To run this project locally and start development:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install the required dependencies.
+4. Start the development server using `npm start`.
+5. Open your browser and visit `http://localhost:3000` to view the website.
+
+Thank you for being a part of this exciting journey to completing a cool FE challenge Website with a Totality Corp!
